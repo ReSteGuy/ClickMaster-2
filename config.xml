@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.clickmaster2.rsguylovesnerds"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>ClickMaster 2</name>
+
+  <description>
+      Click, Click, Click! Again!
+  </description>
+
+  <author href="https://sites.google.com/view/redstoneguyonyt/home" email="redstoneguy.lel@gmail.com">
+      Redstone Guy
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
